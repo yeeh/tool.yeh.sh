@@ -1,4 +1,4 @@
-site of https://tool.yeh.sh/
+site of https://tool.yeh.sh
 ====
 
 yeh's tool
